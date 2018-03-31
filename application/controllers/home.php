@@ -272,4 +272,5 @@ class home extends CI_Controller {
     function enquiry() {
         $this->load->view('web/enquiry');
     }
+    
 }
